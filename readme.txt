@@ -34,12 +34,13 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 = Pro 版功能（升級解鎖）=
 
-* 無限文章掃描
-* 連接 Google Search Console,自動抓取真實流量下滑數據
-* AI 自動生成內容更新建議
-* 多站點管理與白標報告（Agency 方案）
+* 無限文章掃描（免費版限 100 篇）
 
-前往 [contentdecaydetector.com](https://contentdecaydetector.com) 了解更多。
+= 計劃中功能（Roadmap）=
+
+* Google Search Console 流量整合
+* AI 內容更新建議
+* 多站點管理（Agency 方案）
 
 == Installation ==
 
@@ -60,7 +61,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 = 分數係點計出嚟嘅？ =
 
-免費版計分因子包括：文章發佈年齡、距離上次更新嘅時間、以及文章入面失效外部連結嘅比例。Pro 版額外整合 Google Search Console 嘅真實流量趨勢數據,計分更精準。
+免費版計分因子包括：文章發佈年齡、距離上次更新嘅時間、以及文章入面失效外部連結嘅比例。
 
 = 我可以自訂通知頻率嗎？ =
 
