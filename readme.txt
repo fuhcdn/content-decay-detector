@@ -1,4 +1,4 @@
-=== Content Decay Detector ===
+=== Decay Radar ===
 Contributors: Yanlee
 Tags: seo, content audit, content decay, broken links, content maintenance
 Requires at least: 5.8
@@ -12,7 +12,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-**Content Decay Detector** 幫你揪出網站入面正在悄悄流失SEO排名嘅舊文章。
+**Decay Radar** 幫你揪出網站入面正在悄悄流失SEO排名嘅舊文章。
 
 隨住時間過去,舊文章嘅數據會過時、連結會失效,搜尋引擎亦偏好新鮮內容——但大部分站主完全唔知道邊啲文章已經開始「衰退」,直到流量已經流失先發現。
 
@@ -43,7 +43,7 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Installation ==
 
-1. 上傳外掛檔案到 `/wp-content/plugins/content-decay-detector` 目錄,或直接喺WordPress後台「外掛」>「安裝外掛」搜尋「Content Decay Detector」並安裝。
+1. 上傳外掛檔案到 `/wp-content/plugins/decay-radar` 目錄,或直接喺WordPress後台「外掛」>「安裝外掛」搜尋「Decay Radar」並安裝。
 2. 喺「外掛」頁面啟用本外掛。
 3. 前往後台選單「內容衰退偵測」查看儀表板,或按「立即手動掃描」馬上執行第一次掃描。
 4. （可選）前往「內容衰退偵測」>「設定」自訂通知 email 地址。
