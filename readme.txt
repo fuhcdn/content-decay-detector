@@ -1,5 +1,5 @@
 === Content Decay Detector ===
-Contributors: contentdecaydetector
+Contributors: Yanlee
 Tags: seo, content audit, content decay, broken links, content maintenance
 Requires at least: 5.8
 Tested up to: 6.6
